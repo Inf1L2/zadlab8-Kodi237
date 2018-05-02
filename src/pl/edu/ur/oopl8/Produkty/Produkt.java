@@ -1,6 +1,6 @@
 package pl.edu.ur.oopl8.Produkty;
 
-abstract class Produkt {
+public abstract class Produkt {
     private double price;
     private String name;
     private String describe;
